@@ -5,4 +5,4 @@
 3. Jakub Wawrzeniak 
 4. Rafał Kozioł
 5. Tomasz Gryboś (gitHub TomaszGrybos)
-6. Amelia Danił159803 (github ameliadanil)
+6. Amelia Danił 159803 (github ameliadanil)
